@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/k9cql50535slr6am?svg=true)](https://ci.appveyor.com/project/Marfinika/hw-2-apici)
